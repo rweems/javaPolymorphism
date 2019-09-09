@@ -5,5 +5,5 @@ Decided to mess around with some polymorphism and inheritance in java late at ni
 Steps to run:
 1. Download or copy source file(.java) to location on computer
 2. In terminal locate the source file previously downloaded
-3. Run javac AnimalPolymorphism.java
-4. Run java AnimalTestDrive
+3. Run _javac AnimalPolymorphism.java_
+4. Run _java AnimalTestDrive_
